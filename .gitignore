@@ -1,5 +1,6 @@
 business_sample.json
 review_sample.json
+.env
 */.env
 */venv/
 venv/
